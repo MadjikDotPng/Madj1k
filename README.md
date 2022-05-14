@@ -1,7 +1,3 @@
-<weee><a href='https://madjikstuff.rf.gd/'>Website</a></weee>
+<h1><a href='https://madjikstuff.rf.gd/'>MY WEBSITE (go to it)</a></h1>
 
-<style>
-  weee {
-  font-size: 100px;
-  }
-</style>
+
